@@ -1,4 +1,3 @@
-![Nothing Game Center Concept](https://s3-nothing-prod.s3.eu-central-1.amazonaws.com/2024-08-02/1722609315-363927-android-large-2-1.png)
 # Game Center
 Game Center is a clone of GamePigeon compatible with WhatsApp and inspired by Nothing
 
