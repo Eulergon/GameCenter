@@ -32,9 +32,9 @@ To run Game Center locally, follow these steps:
 3. Follow the build instructions to deploy and test games.
 
 ## Usage
-1. Launch the app and connect your WhatsApp account.
+1. Launch the app and allow access to files.
 2. Select a game to play with your contacts.
-3. Enjoy real-time, cross-device multiplayer gaming through WhatsApp messaging.
+3. Enjoy real-time, cross-device multiplayer gaming facilitated through WhatsApp messaging.
 
 ## Contributing
 We welcome contributions from the community! To get started:
