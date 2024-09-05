@@ -1,6 +1,6 @@
 # Game Center
 
-![License](https://img.shields.io/github/license/Eulergon/GameCenter) ![Godot Version](https://img.shields.io/badge/Godot-3.5-blue)
+![License](https://img.shields.io/github/license/Eulergon/GameCenter) ![Godot Version](https://img.shields.io/badge/Godot-4.2-blue)
 
 Game Center is a clone of GamePigeon, designed for compatibility with WhatsApp and inspired by the Nothing phone ecosystem. With Game Center, players can enjoy a variety of interactive games directly via messaging platforms.
 
