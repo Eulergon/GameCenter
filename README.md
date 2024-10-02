@@ -15,7 +15,7 @@ Game Center is a clone of GamePigeon, designed for compatibility with WhatsApp a
 | High     | Establish connection between devices via WhatsApp                     | To Do         |
 | High     | Develop Godot Engine plugin for game creation using the network system| In Progress   |
 | High     | Add at least 5 games from the original post (See [Nothing Post](https://nothing.community/d/14030)) | To Do         |
-| High     | General release                                                      | To Do         |
+| High     | General release                                                      | To Do, ETA December 2024         |
 | Low      | Improve networking system for better compatibility                   | To Do         |
 | Low      | Add more games                                                       | To Do         |
 | Low      | Integrate music support                                               | To Do         |
